@@ -8,7 +8,7 @@ I am a software engineer who has a two-year college degree in computer programmi
 
 📫&nbsp;&nbsp;&nbsp;How to reach me: me@emresandikci.com
 
-📮&nbsp;&nbsp;&nbsp;BTW ... to know more about me [please check my website ⇒](https://emresandikci.com/)
+🌐&nbsp;&nbsp;&nbsp;BTW ... to know more about me [please check my website ⇒](https://emresandikci.com/)
 
 
 ### "Workaround is fuck around the work"

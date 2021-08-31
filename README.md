@@ -11,9 +11,9 @@ I am a software engineer who has two years of a college degree in computer progr
 🌐&nbsp;&nbsp;&nbsp;BTW ... to know more about me [please check my website ⇒](https://emresandikci.com/)
 
 ### "Workaround is fuck around the work"
-
+<!-- 
 ![Emre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emresandikci&hide_border=true&show_icons=true&count_private=true&line_height=27&layout=compact)
-![Emre's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emresandikci&count_private=true&hide_border=true&show_icons=true&langs_count=5&layout=compact)
+![Emre's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emresandikci&count_private=true&hide_border=true&show_icons=true&langs_count=5&layout=compact) -->
 
 
 <!-- **emresandikci/emresandikci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. ~

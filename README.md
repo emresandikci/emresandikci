@@ -4,7 +4,7 @@ I am a software engineer who has two years of a college degree in computer progr
 
 🔨&nbsp;&nbsp;&nbsp;Interested in javascript tech-stack (ex .Net Dev) (Node.js React.js Next.js, styled-system, styled-components and more...) 
 
-🔭&nbsp;&nbsp;&nbsp;I’m currently working at [FineDine Digital Menus for Restaurants, Cafes & Bars](http://finedinemenu.com) as a sr. frontend engineer
+<!-- 🔭&nbsp;&nbsp;&nbsp;I’m currently working at [FineDine Digital Menus for Restaurants, Cafes & Bars](http://finedinemenu.com) as a sr. frontend engineer -->
 
 📫&nbsp;&nbsp;&nbsp;How to reach me: me@emresandikci.com
 

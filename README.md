@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-I am a software engineer who has two years of a college degree in computer programming and an unfinished bachelor's degree in software engineering. I started my professional career as a freelance developer when I was studying at university. Since my graduation, I worked for several mid-size, corporate and start-up companies as a software developer. I am highly qualified in back-end and front-end techs for more than 9+ years. I am a curious, researcher, problem solver, optimist and empathetic, a good teammate, diligent, and also a helpful person.
+"I am a software engineer with two years of college education in computer programming and an unfinished bachelor's degree in software engineering. During my time at university, I started my professional career as a freelance developer. Following my graduation, I have worked for several mid-sized, corporate, and start-up companies as a software developer. I have over 9+ years of experience in both back-end and front-end technologies. I am a curious researcher, problem solver, optimist, empathetic, and a good team player."
 
-🔨&nbsp;&nbsp;&nbsp;Interested in javascript tech-stack (ex .Net Dev) (Node.js React.js Next.js, styled-system, styled-components and more...) 
+🔨&nbsp;&nbsp;&nbsp; Interested in javascript tech-stack (ex .Net Dev) (Node.js React.js Next.js, styled-system, styled-components and more...) 
 
-<!-- 🔭&nbsp;&nbsp;&nbsp;I’m currently working at [FineDine Digital Menus for Restaurants, Cafes & Bars](http://finedinemenu.com) as a sr. frontend engineer -->
+<!-- 🔭&nbsp;&nbsp;&nbsp; I’m currently working at [FineDine Digital Menus for Restaurants, Cafes & Bars](http://finedinemenu.com) as a sr. frontend engineer -->
 
 📫&nbsp;&nbsp;&nbsp;How to reach me: me@emresandikci.com
 
-🌐&nbsp;&nbsp;&nbsp;BTW ... to know more about me [please check my website ⇒](https://emresandikci.com/)
+🌐&nbsp;&nbsp;&nbsp; BTW ... to know more about me [please check my website ⇒](https://emresandikci.com/)
 
 ### "Workaround is fuck around the work"
 <!-- 

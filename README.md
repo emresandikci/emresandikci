@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-"I am a software engineer with two years of college education in computer programming and an unfinished bachelor's degree in software engineering. During my time at university, I started my professional career as a freelance developer. Following my graduation, I have worked for several mid-sized, corporate, and start-up companies as a software developer. I have over 9+ years of experience in both back-end and front-end technologies. I am a curious researcher, problem solver, optimist, empathetic, and a good team player."
+Senior Software Developer with over 10 years of experience in developing scalable web, desktop applications. Expertise in both front-end and back-end technologies, with a strong focus on system architecture, UI/UX design, and DevOps. Passionate about problem-solving, research, and delivering high-quality software solutions.
 
 🔨&nbsp;&nbsp;&nbsp; Interested in javascript tech-stack (ex .Net Dev) (Node.js React.js Next.js, styled-system, styled-components and more...) 
 

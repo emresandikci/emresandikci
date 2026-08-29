@@ -6,8 +6,6 @@ I’m a software engineer who enjoys building things, understanding how they wor
 
 <!-- 🔭&nbsp;&nbsp;&nbsp; I’m currently working at [FineDine Digital Menus for Restaurants, Cafes & Bars](http://finedinemenu.com) as a sr. frontend engineer -->
 
-📫&nbsp;&nbsp;&nbsp;How to reach me: me@emresandikci.com
-
 🌐&nbsp;&nbsp;&nbsp; BTW ... to know more about me [please check my website ⇒](https://emresandikci.com/)
 
 ### "Workaround is fuck around the work"

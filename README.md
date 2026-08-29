@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Senior Software Developer with over 10 years of experience in developing scalable web, desktop applications. Expertise in both front-end and back-end technologies, with a strong focus on system architecture, UI/UX design, and DevOps. Passionate about problem-solving, research, and delivering high-quality software solutions.
+I’m a software engineer who enjoys building things, understanding how they work, and making them better. Over the past 10+ years, my career has evolved from frontend and full-stack development into software architecture, DevOps, and technical leadership. I’m particularly interested in the parts of engineering where code, infrastructure, architecture, and developer experience come together. I like taking complex systems and workflows, finding what makes them slow or fragile, and turning them into simpler, more reliable, and automated solutions.
 
 🔨&nbsp;&nbsp;&nbsp; Interested in javascript tech-stack (ex .Net Dev) (Node.js React.js Next.js, styled-system, styled-components and more...) 
 
